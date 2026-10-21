@@ -1,0 +1,23 @@
+# Local database credentials
+/config/database.php
+
+# Private database exports
+*.sql
+!/database/schema.sql
+!/database/seed.sql
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Backups and logs
+*.zip
+*.bak
+*.log
+/backups/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
