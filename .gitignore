@@ -21,3 +21,7 @@
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Private campus submission files
+LECTURER-ACCESS.txt
+database/tourist_planner.sql

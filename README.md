@@ -32,6 +32,13 @@ the scope of this project.
 
 These steps are for a fresh installation.
 
+
+For the campus submission ZIP, follow START-HERE.txt in the
+main submission folder. Import database/tourist_planner.sql
+only. Do not additionally import schema.sql or seed.sql.
+
+The steps below apply to the GitHub version.
+
 1. Install XAMPP and start Apache and MySQL.
 2. Copy the project folder into:
 
@@ -74,6 +81,13 @@ before the admin panel can be used.
 
 There is no public administrator registration page.
 
+The admin login details are provided in LECTURER-ACCESS.txt
+inside the campus submission ZIP. This file is not included
+in the public GitHub repository.
+
+After completing the database setup, open:
+http://localhost/Local-Tourist-Day-Visit-Planner/admin-login.html
+
 ## Visit Plans
 
 Visit plans are associated with a browser cookie and stored in
@@ -96,3 +110,4 @@ An internet connection is needed for online maps and Google Fonts.
 - The Chair-Shaped Large Stone photograph is pending.
 - Social media links are demonstration links.
 - Opening times and access conditions should be confirmed before travel.
+
